@@ -68,7 +68,7 @@ nav {
 
 .hero {
   height: 75vh;
-  background-image: url("/assets/hero-bg.png");
+  background-image: url("assets/hero-bg.png");
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
